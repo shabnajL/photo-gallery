@@ -3,4 +3,4 @@ Photo Gallery using CSS Flexbox
 
 
 
-https://codepen.io/Shabnaj-L/full/ZEVxzRg
+https://codepen.io/Shabnaj-L/pen/eYbMOjO
