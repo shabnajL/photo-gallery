@@ -1,3 +1,3 @@
 Photo Gallery using CSS Flexbox
 
-Link: shabnajl.github.io/photo-gallery/
+Link: https://shabnajl.github.io/photo-gallery/
